@@ -8,6 +8,12 @@
 
 ---
 
+## 📎 Project Files
+
+All project files (Power BI `.pbix`, presentation, technical details PDF, and project video) are available in this Drive folder: **[Google Drive — Project Files](https://drive.google.com/drive/folders/1frlefmE6chEmxIK1VR9HmD-buvontjj4?usp=sharing)**
+
+---
+
 ## 📌 Table of Contents
 
 - [Business Problem](#-business-problem)
